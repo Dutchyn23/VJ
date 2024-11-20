@@ -1,0 +1,1 @@
+from .equipments import EquipmentsList, EquipmentsDetail
